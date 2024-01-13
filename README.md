@@ -1,51 +1,52 @@
-### Hi there, I'm Haythem  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, I'm Haythem  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a full-stack software engineer based at Tunisia. During the past 10 years of working with software development, I have obtained an understanding into wide area of technical domains ranging from both front and back end development. I am passionate about creating technology that innovates and solves real world problems. Technologies I enjoy working with include React.js, Typescript, Angular, Node.js, Express.js  (JavaScript, APIs and Markup).
+- 👯 I’m looking to collaborate on Youtube and Full Stack Developer
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... MERN
+- 😄 Pronouns: ... YES
+- ⚡ Fun fact: ... I am Funny and I love to Code
+<br/> <br/>
 
-### Technologies
-
-<p align="left">
-  
-<img src="https://img.shields.io/badge/Code-Node.js-informational?style=plastic&logo=node.js&logoColor=white&color=2bbc8a" />
-
-<img src="https://img.shields.io/badge/Code-Angular-informational?style=plastic&logo=angular&logoColor=white&color=2bbc8a" />
-
-<img src="https://img.shields.io/badge/Code-React.js-informational?style=plastic&logo=react&logoColor=white&color=2bbc8a" />
-
-<img src="https://img.shields.io/badge/Code-Next.js-informational?style=plastic&logo=next.js&logoColor=white&color=2bbc8a" />
-
-<img src="https://img.shields.io/badge/Database-MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=2bbc8a" />
-
-<img src="https://img.shields.io/badge/Cache-Redis-informational?style=plastic&logo=redis&logoColor=white&color=2bbc8a" />
-
-<img src="https://img.shields.io/badge/SearchEngine-Elasticsearch-informational?style=plastic&logo=elasticsearch&logoColor=white&color=2bbc8a" />
-
-<img src="https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=amazon&logoColor=white&color=2bbc8a" />
-
-<img src="https://img.shields.io/badge/Tools-Redux-informational?style=plastic&logo=redux&logoColor=white&color=2bbc8a" />
-
-<img src="https://img.shields.io/badge/API-GraphQL-informational?style=plastic&logo=apollographql&logoColor=white&color=2bbc8a" />
-
-<img src="https://img.shields.io/badge/PaaS-Docker-informational?style=plastic&logo=docker&logoColor=white&color=2bbc8a" />
+![](https://github-readme-stats.vercel.app/api?username=hedfi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&color=0)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hedfi&theme=tokyonight&hide_border=false&color=0)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hedfi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&color=0)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sunil9813&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hedfi&icon=0&color=0&theme=tokyonight)](https://visitcount.itsvg.in)
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.facebook.com/haythem.hedfi.1/" target="blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 64 64">
-<radialGradient id="jAVUMfCM1liBjYZwQpghOa_118979_gr1" cx="32" cy="31.5" r="31.259" gradientUnits="userSpaceOnUse" spreadMethod="reflect"><stop offset="0" stop-color="#c5f1ff"></stop><stop offset=".35" stop-color="#cdf3ff"></stop><stop offset=".907" stop-color="#e4faff"></stop><stop offset="1" stop-color="#e9fbff"></stop></radialGradient><path fill="url(#jAVUMfCM1liBjYZwQpghOa_118979_gr1)" d="M58,54c-1.105,0-2-0.895-2-2c0-1.105,0.895-2,2-2h2.5c1.925,0,3.5-1.575,3.5-3.5 S62.425,43,60.5,43H50c-1.381,0-2.5-1.119-2.5-2.5c0-1.381,1.119-2.5,2.5-2.5h8c1.65,0,3-1.35,3-3c0-1.65-1.35-3-3-3H42v-6h18 c2.335,0,4.22-2.028,3.979-4.41C63.77,19.514,61.897,18,59.811,18H58c-1.105,0-2-0.895-2-2c0-1.105,0.895-2,2-2h0.357 c1.308,0,2.499-0.941,2.63-2.242C61.137,10.261,59.966,9,58.5,9h-14C43.672,9,43,8.328,43,7.5S43.672,6,44.5,6h3.857 c1.308,0,2.499-0.941,2.63-2.242C51.137,2.261,49.966,1,48.5,1L15.643,1c-1.308,0-2.499,0.941-2.63,2.242 C12.863,4.739,14.034,6,15.5,6H19c1.105,0,2,0.895,2,2c0,1.105-0.895,2-2,2H6.189c-2.086,0-3.958,1.514-4.168,3.59 C1.78,15.972,3.665,18,6,18h2.5c1.933,0,3.5,1.567,3.5,3.5c0,1.933-1.567,3.5-3.5,3.5H5.189c-2.086,0-3.958,1.514-4.168,3.59 C0.78,30.972,2.665,33,5,33h17v11H6c-1.65,0-3,1.35-3,3c0,1.65,1.35,3,3,3h0c1.105,0,2,0.895,2,2c0,1.105-0.895,2-2,2H4.189 c-2.086,0-3.958,1.514-4.168,3.59C-0.22,59.972,1.665,62,4,62h53.811c2.086,0,3.958-1.514,4.168-3.59C62.22,56.028,60.335,54,58,54z"></path><linearGradient id="jAVUMfCM1liBjYZwQpghOb_118979_gr2" x1="32" x2="32" y1="59.381" y2="15.381" gradientUnits="userSpaceOnUse" spreadMethod="reflect"><stop offset="0" stop-color="#155cde"></stop><stop offset=".278" stop-color="#1f7fe5"></stop><stop offset=".569" stop-color="#279ceb"></stop><stop offset=".82" stop-color="#2cafef"></stop><stop offset="1" stop-color="#2eb5f0"></stop></linearGradient><path fill="url(#jAVUMfCM1liBjYZwQpghOb_118979_gr2)" d="M50,12H14c-2.209,0-4,1.791-4,4v36c0,2.209,1.791,4,4,4h36c2.209,0,4-1.791,4-4V16 C54,13.791,52.209,12,50,12z"></path><path fill="#fff" d="M19 28h2c1.105 0 2 .895 2 2v17c0 1.105-.895 2-2 2h-2c-1.105 0-2-.895-2-2V30C17 28.895 17.895 28 19 28zM19.981 25h-.033C18.158 25 17 23.664 17 22c0-1.706 1.195-3 3.019-3 1.823 0 2.948 1.294 2.981 3C23 23.664 21.842 25 19.981 25zM45 49h-2c-1.105 0-2-.895-2-2v-9.372c0-2.749-1.506-4.624-4.239-4.624-1.953 0-3.133 1.265-3.626 2.485C32.954 35.929 33 37.14 33 37.75V47c0 1.105-.888 2-1.993 2H29c-1.105 0-2-.895-2-2V30c0-1.105.895-2 2-2h2.007c1.105 0 2 .895 2 2v1.021C33.911 29.625 35.564 28 39.173 28 43.646 28 47 30.563 47 36.842V47C47 48.105 46.105 49 45 49z"></path>
-</svg></a>
-<a href="https://www.linkedin.com/in/haythem-hedfi-81a39239/" target="blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 64 64">
-<radialGradient id="jAVUMfCM1liBjYZwQpghOa_118979_gr1" cx="32" cy="31.5" r="31.259" gradientUnits="userSpaceOnUse" spreadMethod="reflect"><stop offset="0" stop-color="#c5f1ff"></stop><stop offset=".35" stop-color="#cdf3ff"></stop><stop offset=".907" stop-color="#e4faff"></stop><stop offset="1" stop-color="#e9fbff"></stop></radialGradient><path fill="url(#jAVUMfCM1liBjYZwQpghOa_118979_gr1)" d="M58,54c-1.105,0-2-0.895-2-2c0-1.105,0.895-2,2-2h2.5c1.925,0,3.5-1.575,3.5-3.5 S62.425,43,60.5,43H50c-1.381,0-2.5-1.119-2.5-2.5c0-1.381,1.119-2.5,2.5-2.5h8c1.65,0,3-1.35,3-3c0-1.65-1.35-3-3-3H42v-6h18 c2.335,0,4.22-2.028,3.979-4.41C63.77,19.514,61.897,18,59.811,18H58c-1.105,0-2-0.895-2-2c0-1.105,0.895-2,2-2h0.357 c1.308,0,2.499-0.941,2.63-2.242C61.137,10.261,59.966,9,58.5,9h-14C43.672,9,43,8.328,43,7.5S43.672,6,44.5,6h3.857 c1.308,0,2.499-0.941,2.63-2.242C51.137,2.261,49.966,1,48.5,1L15.643,1c-1.308,0-2.499,0.941-2.63,2.242 C12.863,4.739,14.034,6,15.5,6H19c1.105,0,2,0.895,2,2c0,1.105-0.895,2-2,2H6.189c-2.086,0-3.958,1.514-4.168,3.59 C1.78,15.972,3.665,18,6,18h2.5c1.933,0,3.5,1.567,3.5,3.5c0,1.933-1.567,3.5-3.5,3.5H5.189c-2.086,0-3.958,1.514-4.168,3.59 C0.78,30.972,2.665,33,5,33h17v11H6c-1.65,0-3,1.35-3,3c0,1.65,1.35,3,3,3h0c1.105,0,2,0.895,2,2c0,1.105-0.895,2-2,2H4.189 c-2.086,0-3.958,1.514-4.168,3.59C-0.22,59.972,1.665,62,4,62h53.811c2.086,0,3.958-1.514,4.168-3.59C62.22,56.028,60.335,54,58,54z"></path><linearGradient id="jAVUMfCM1liBjYZwQpghOb_118979_gr2" x1="32" x2="32" y1="59.381" y2="15.381" gradientUnits="userSpaceOnUse" spreadMethod="reflect"><stop offset="0" stop-color="#155cde"></stop><stop offset=".278" stop-color="#1f7fe5"></stop><stop offset=".569" stop-color="#279ceb"></stop><stop offset=".82" stop-color="#2cafef"></stop><stop offset="1" stop-color="#2eb5f0"></stop></linearGradient><path fill="url(#jAVUMfCM1liBjYZwQpghOb_118979_gr2)" d="M50,12H14c-2.209,0-4,1.791-4,4v36c0,2.209,1.791,4,4,4h36c2.209,0,4-1.791,4-4V16 C54,13.791,52.209,12,50,12z"></path><path fill="#fff" d="M19 28h2c1.105 0 2 .895 2 2v17c0 1.105-.895 2-2 2h-2c-1.105 0-2-.895-2-2V30C17 28.895 17.895 28 19 28zM19.981 25h-.033C18.158 25 17 23.664 17 22c0-1.706 1.195-3 3.019-3 1.823 0 2.948 1.294 2.981 3C23 23.664 21.842 25 19.981 25zM45 49h-2c-1.105 0-2-.895-2-2v-9.372c0-2.749-1.506-4.624-4.239-4.624-1.953 0-3.133 1.265-3.626 2.485C32.954 35.929 33 37.14 33 37.75V47c0 1.105-.888 2-1.993 2H29c-1.105 0-2-.895-2-2V30c0-1.105.895-2 2-2h2.007c1.105 0 2 .895 2 2v1.021C33.911 29.625 35.564 28 39.173 28 43.646 28 47 30.563 47 36.842V47C47 48.105 46.105 49 45 49z"></path>
-</svg></a>
-<a href="mailto:h.hedfi@icloud.com" target="blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 64 64">
-<radialGradient id="jUSv56w43tV131KS5vdVHa_Tsdefp8FjSAJ_gr1" cx="32" cy="34" r="32" gradientTransform="matrix(1 0 0 -1 0 66)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#9ceeff"></stop><stop offset=".642" stop-color="#c5f5ff"></stop><stop offset="1" stop-color="#dcf9ff"></stop></radialGradient><path fill="url(#jUSv56w43tV131KS5vdVHa_Tsdefp8FjSAJ_gr1)" d="M3,3c0-1.657,1.343-3,3-3s3,1.343,3,3S7.657,6,6,6S3,4.657,3,3z M60,58c-1.657,0-3,1.343-3,3	s1.343,3,3,3s3-1.343,3-3S61.657,58,60,58z M60.302,43H44v-7h14.828c2.089,0,3.955-1.527,4.153-3.607C63.209,30.007,61.339,28,59,28	H44v-8h15.828c2.089,0,3.955-1.527,4.153-3.607C64.209,14.007,62.339,12,60,12H47c-1.657,0-3-1.343-3-3s1.343-3,3-3h2.03	C50.67,6,52,4.67,52,3.029V2.971C52,1.33,50.67,0,49.03,0H14.97C13.33,0,12,1.33,12,2.971V3.03C12,4.67,13.33,6,14.97,6h1.53	C18.433,6,20,7.567,20,9.5S18.433,13,16.5,13H3.698c-1.895,0-3.594,1.419-3.693,3.312C-0.101,18.331,1.505,20,3.5,20H20v5H5	c-2.209,0-4,1.791-4,4s1.791,4,4,4h15v8H4.172c-2.089,0-3.955,1.527-4.153,3.606C-0.209,46.992,1.661,49,4,49h10	c2.209,0,4,1.791,4,4v1c0,2.209-1.791,4-4,4h-0.889c-1.451,0-2.781,0.981-3.054,2.406C9.689,62.323,11.149,64,13,64h37.889	c1.451,0,2.781-0.981,3.054-2.406C54.311,59.677,52.851,58,51,58h-1c-2.209,0-4-1.791-4-4s1.791-4,4-4h10.5	c1.995,0,3.601-1.669,3.495-3.688C63.896,44.419,62.197,43,60.302,43z"></path><linearGradient id="jUSv56w43tV131KS5vdVHb_Tsdefp8FjSAJ_gr2" x1="32" x2="32" y1="-1.873" y2="71.552" gradientTransform="matrix(1 0 0 -1 0 66)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#005ce2"></stop><stop offset=".278" stop-color="#0080e8"></stop><stop offset=".569" stop-color="#009ced"></stop><stop offset=".82" stop-color="#00b0f1"></stop><stop offset="1" stop-color="#00b5f2"></stop></linearGradient><path fill="url(#jUSv56w43tV131KS5vdVHb_Tsdefp8FjSAJ_gr2)" d="M18,8h28c5.523,0,10,4.477,10,10v28c0,5.523-4.477,10-10,10H18c-5.523,0-10-4.477-10-10V18	C8,12.477,12.477,8,18,8z"></path><path fill="#fff" d="M24.53,30.18l-10.29,12C14.09,41.82,14,41.42,14,41V23c0-0.54,0.14-1.04,0.38-1.47L24.53,30.18z"></path><path fill="#fff" d="M30.59,32.71l-14.67-12.5C16.25,20.07,16.62,20,17,20h30c0.4,0,0.78,0.08,1.13,0.23L34.41,32.65	C33.37,33.59,31.66,33.62,30.59,32.71z"></path><path fill="#fff" d="M38.27,31.85l10.12,11.81C47.98,43.88,47.5,44,47,44H17c-0.5,0-0.98-0.12-1.39-0.34l10.44-12.19	l3.24,2.76c0.89,0.75,2.01,1.17,3.18,1.17c1.21,0,2.38-0.45,3.28-1.27L38.27,31.85z"></path><path fill="#fff" d="M50,23v18c0,0.42-0.09,0.82-0.24,1.18L39.75,30.51l9.89-8.94C49.87,21.99,50,22.48,50,23z"></path><linearGradient id="jUSv56w43tV131KS5vdVHc_Tsdefp8FjSAJ_gr3" x1="16.502" x2="16.502" y1="3.541" y2="58.639" gradientTransform="matrix(1 0 0 -1 0 66)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#005ce2"></stop><stop offset=".278" stop-color="#0080e8"></stop><stop offset=".569" stop-color="#009ced"></stop><stop offset=".82" stop-color="#00b0f1"></stop><stop offset="1" stop-color="#00b5f2"></stop></linearGradient><path fill="url(#jUSv56w43tV131KS5vdVHc_Tsdefp8FjSAJ_gr3)" d="M24.99,10.24c0.15,1.5-1.02,2.76-2.49,2.76H15c-0.55,0-1.05,0.22-1.41,0.59	C13.22,13.95,13,14.45,13,15c0,1.1,0.9,2,2,2h1.5c0.83,0,1.5,0.67,1.5,1.5S17.33,20,16.5,20H8v-2c0-5.52,4.48-10,10-10h4.36	C23.67,8,24.86,8.94,24.99,10.24z"></path><linearGradient id="jUSv56w43tV131KS5vdVHd_Tsdefp8FjSAJ_gr4" x1="47.998" x2="47.998" y1="5.823" y2="63.776" gradientTransform="matrix(1 0 0 -1 0 66)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#005ce2"></stop><stop offset=".278" stop-color="#0080e8"></stop><stop offset=".569" stop-color="#009ced"></stop><stop offset=".82" stop-color="#00b0f1"></stop><stop offset="1" stop-color="#00b5f2"></stop></linearGradient><path fill="url(#jUSv56w43tV131KS5vdVHd_Tsdefp8FjSAJ_gr4)" d="M40.01,53.76C39.86,52.26,41.03,51,42.5,51H47c0.55,0,1.05-0.22,1.41-0.59	C48.78,50.05,49,49.55,49,49c0-1.1-0.9-2-2-2h-1.5c-0.83,0-1.5-0.67-1.5-1.5s0.67-1.5,1.5-1.5H56v2c0,5.52-4.48,10-10,10h-3.36	C41.33,56,40.14,55.06,40.01,53.76z"></path>
-</svg></a>
+<a href="https://www.facebook.com/haythem.hedfi.1/" target="blank">
+<img align="left" alt="Facebook" width="50px" src="https://www.svgrepo.com/show/120931/facebook.svg" style="padding-right:10px;" />
+</a>
+<a href="https://www.linkedin.com/in/haythem-hedfi-81a39239/" target="blank">
+<img align="left" alt="Linkedin" width="50px" src="https://www.svgrepo.com/show/54425/linkedin.svg" style="padding-right:10px;" />
+
+</a>
+<a href="mailto:h.hedfi@icloud.com" target="blank">
+<img align="left" alt="Email" width="50px" src="https://www.svgrepo.com/show/313130/email.svg" style="padding-right:10px;" />
+</a>
 </p>
 
 <br/> <br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hedfi.visitor-badge)
+### Languages and Tools:
+<img align="left" alt="Node JS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/symfony/symfony-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Graphql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Mongo" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" style="padding-right:10px;" />
 
 
+<br />
+<br />
